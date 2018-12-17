@@ -2,21 +2,24 @@
   "users": [
     {
       "id": "1",
-      "isActive": true,
+      "status": "A",
+      "usertype": "C",
       "name": "Masha",
       "email": "masha@yopmail.com",
       "phone": "+1111111"
     },
     {
       "id": "2",
-      "isActive": true,
+      "status": "A",
+      "usertype": "C",
       "name": "Anya",
       "email": "anya@yopmail.com",
       "phone": "+2222222"
     },
     {
       "id": "3",
-      "isActive": true,
+      "status": "D",
+      "usertype": "K",
       "name": "Kirill",
       "email": "kirill@yopmail.com",
       "phone": "+3333333"
