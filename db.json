@@ -24,5 +24,25 @@
       "email": "kirill@yopmail.com",
       "phone": "+3333333"
     }
-  ]
+  ],
+  "godfathers": [
+    {
+      "godfather_id": "1",
+      "godfather_name": "Masha",
+      "godson_id": "4",
+      "godson_name": "Petya"
+    },
+    {
+      "godfather_id": "2",
+      "godfather_name": "Anya",
+      "godson_id": "5",
+      "godson_name": "Vova"
+    },
+    {
+      "godfather_id": "2",
+      "godfather_name": "Anya",
+      "godson_id": "6",
+      "godson_name": "Vasya"
+    }
+  ]      
 }
