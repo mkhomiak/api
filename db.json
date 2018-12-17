@@ -30,19 +30,23 @@
       "godfather_id": "1",
       "godfather_name": "Masha",
       "godson_id": "4",
-      "godson_name": "Petya"
+      "godson_name": "Petya",
+      "points": "100"
+  
     },
     {
       "godfather_id": "2",
       "godfather_name": "Anya",
       "godson_id": "5",
-      "godson_name": "Vova"
+      "godson_name": "Vova",
+      "points": "100"
     },
     {
       "godfather_id": "2",
       "godfather_name": "Anya",
       "godson_id": "6",
-      "godson_name": "Vasya"
+      "godson_name": "Vasya",
+      "points": "100"
     }
   ]      
 }
