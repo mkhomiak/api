@@ -15,7 +15,7 @@
       "usertype": "C",
       "name": "Anya",
       "email": "anya@yopmail.com",
-      "phone": "+2222222",
+      "phone": "+380963824938",
       "balance": "200"
     },
     {
@@ -44,14 +44,14 @@
       "points": "0"
     },
     {
-      "godfather_id": "2",
+      "godfather_id": "380963824938",
       "godfather_name": "Anya",
       "godson_id": "6",
       "godson_name": "Vova",
       "points": "100"
     },
     {
-      "godfather_id": "2",
+      "godfather_id": "380963824938",
       "godfather_name": "Anya",
       "godson_id": "7",
       "godson_name": "Vasya",
